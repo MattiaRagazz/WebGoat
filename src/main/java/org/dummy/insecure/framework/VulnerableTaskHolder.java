@@ -35,7 +35,9 @@ public class VulnerableTaskHolder implements Serializable {
         + requestedExecutionTime
         + "]";
   }
-
+  public Object prova123(){
+	  return null;
+  }
   /**
    * Execute a task when de-serializing a saved or received object.
    *
